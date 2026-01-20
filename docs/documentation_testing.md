@@ -5,3 +5,11 @@
 
 5. correr los test
    flutter test 
+
+## Documentación de Pruebas en Flutter
+
+Para flutter driver, añadimos al pubsecc
+
+flutter_driver:
+sdk: flutter
+

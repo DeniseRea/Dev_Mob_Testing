@@ -9,4 +9,8 @@ class Division{
     }
     return numerator / denominator;
   }
+
+  double suma(){
+    return numerator + denominator;
+  }
 }

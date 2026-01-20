@@ -15,4 +15,11 @@ void main(){
     //se indica que es lo que se espera
     expect(result,5.0);
   });
+
+  test ('este test prueba una suma', (){
+    final divi= Division(1,4);
+    double sum= divi.suma();
+    //se indica que es lo que se espera
+    expect(sum, 5.0);
+  });
 }
